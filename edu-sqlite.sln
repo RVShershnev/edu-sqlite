@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edu.AdoNet.SQLite", "Edu.AdoNet.SQLite\Edu.AdoNet.SQLite.csproj", "{88B9877E-403F-4BC1-AA45-3A5EA894000C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edu.SQLiteNet.SQLite", "Edu.SQLiteNet.SQLite\Edu.SQLiteNet.SQLite.csproj", "{33BE1691-B753-4C95-8F1C-0A22DF33DDF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edu.EfCore.SQLite", "Edu.EfCore.SQLite\Edu.EfCore.SQLite.csproj", "{BDD6B52E-DFA2-40EE-9337-529F25989EF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edu.Dapper.SQLite", "Edu.Dapper.SQLite\Edu.Dapper.SQLite.csproj", "{5CBCF1FD-8344-4A78-8777-239A7636BF49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edu.Domains", "Edu.Domains\Edu.Domains.csproj", "{F254B189-0B32-4F4C-85D7-AF8DA9AC5860}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{4D286343-7577-41B3-B3B2-BA9FB935747B}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B9877E-403F-4BC1-AA45-3A5EA894000C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B9877E-403F-4BC1-AA45-3A5EA894000C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B9877E-403F-4BC1-AA45-3A5EA894000C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B9877E-403F-4BC1-AA45-3A5EA894000C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BE1691-B753-4C95-8F1C-0A22DF33DDF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BE1691-B753-4C95-8F1C-0A22DF33DDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BE1691-B753-4C95-8F1C-0A22DF33DDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BE1691-B753-4C95-8F1C-0A22DF33DDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD6B52E-DFA2-40EE-9337-529F25989EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD6B52E-DFA2-40EE-9337-529F25989EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD6B52E-DFA2-40EE-9337-529F25989EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD6B52E-DFA2-40EE-9337-529F25989EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBCF1FD-8344-4A78-8777-239A7636BF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBCF1FD-8344-4A78-8777-239A7636BF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBCF1FD-8344-4A78-8777-239A7636BF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBCF1FD-8344-4A78-8777-239A7636BF49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F254B189-0B32-4F4C-85D7-AF8DA9AC5860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F254B189-0B32-4F4C-85D7-AF8DA9AC5860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F254B189-0B32-4F4C-85D7-AF8DA9AC5860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F254B189-0B32-4F4C-85D7-AF8DA9AC5860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FEE547D-FDE3-4D73-AAC2-AB1246A88352}
+	EndGlobalSection
+EndGlobal
